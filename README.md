@@ -50,7 +50,7 @@ account address:     0x02dF304af8587597784d423bEC372cF51B9b739D
 
 ### Mint Tokens
 
-OpenSea Link : https://rinkeby.opensea.io/accounts/0x02df304af8587597784d423bec372cf51b9b739d
+OpenSea Link : https://rinkeby.opensea.io/category/realestatetitle
 
 change the configuration data in the `mintConfig.json` file and then run
 
